@@ -33,10 +33,10 @@ pip install rdmulti
 安装完成后，需要使用本项目 `refine` 文件夹中的文件替换原始库文件。
 
 1.  找到 Python 环境下的库安装路径。
-    *   *示例路径*：`D:\Anaconda\Lib\site-packages\rdmulti`
+    *   *示例路径*：`D:\Anaconda\Lib\site-packages\rdmulti`（具体路径因用户设定而异）
     *   该文件夹内应包含 `rdmc.py`, `rdmcplot.py`, `rdms.py` 等文件。
 2.  将本项目 **`refine`** 文件夹中的所有文件复制。
-3.  粘贴到上述 `rdmulti` 文件夹中，并选择 **覆盖/替换** 原始文件。
+3.  粘贴到上述示例路径的 `rdmulti` 文件夹中，并选择 **覆盖/替换** 原始文件。
 
 完成替换后，即可使用增强版功能。
 
